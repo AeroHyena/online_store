@@ -1,0 +1,11 @@
+{
+  "name": "online_store",
+  "version": "1.0.0",
+  "description": "This is an online shopping webapp created to explore microservices architecture and its various components.",
+  "main": "launch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raku dreemurr",
+  "license": "MIT"
+}
