@@ -7,6 +7,14 @@ anything else that is important or may be useful at a later point -->
 
 # Study Notes
 
+## Documentation
+I know that making documentation for an app is important as it describes the layout, setup and all other aspects of your app to anyone who wishes to use or help develop your app.
+
+I will experiment with JSDoc, and I will also rely on the readme file in the repository to provide all the essential information for this project.
+
+use this command in the terminal to generate jsdoc documentation:
+jsdoc --configure ./conf.json --readme ./README.md
+
 
 ## HTML methods
 - GET

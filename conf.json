@@ -1,0 +1,10 @@
+{
+    "source": {
+      "include": ["gateway.js", "launch.js"]
+    },
+    "opts": {
+      "recurse": true,
+      "destination": "docs"
+    }
+  }
+  
