@@ -8,6 +8,16 @@ anything else that is important or may be useful at a later point -->
 # Study Notes
 
 
+## HTML methods
+- GET
+- POST
+- PUT
+- DELETE
+- HEAD
+- OPTIONS
+
+
+
 ## Microservices
 For this app, I will be utilizing a microservices structure.
 

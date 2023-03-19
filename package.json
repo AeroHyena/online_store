@@ -9,6 +9,7 @@
   "author": "raku dreemurr",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "jsdoc": "^4.0.2"
   }
 }
