@@ -7,7 +7,7 @@
 
 
 // import all service apis
-const gateway = require("./gateway.js");
+const gateway = require("./gateway.js");                    // API Gateway
 
 
 // deploy each api in the order of priority

@@ -64,7 +64,10 @@ This is great for something like gaming, where there has to be game logic, playe
 Other examples inlude ecommerce and social media websites, financial services, health care, etc.
 
 
+## Logging
+For this web app, I will be using a custom-built logging service that will store log data in a database and retrieve it upon request.
 
+I will keep track of user activity on the page so that the steps used to expose a bug can be re-created. This user data will be stored under the user's unique identifier, or the user's IP adress for guest users.
 
 
 ## Tools Used
