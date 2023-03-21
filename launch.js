@@ -8,7 +8,8 @@
 
 // import all service apis
 const gateway = require("./gateway.js");                    // API Gateway
-
+const logger = require("./services/logger/logger.js")       // Logger Service
 
 // deploy each api in the order of priority
 gateway.startGateway(8000);
+logger.startLogger(8001);
